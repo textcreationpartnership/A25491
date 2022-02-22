@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the most remarkable fights and skirmishes between His Majesties forces, and the late rebels in the kingdom of Scotland with what other material passages hapned, from the first landing of the late Earl of Argyle, to his utter rout and defeat : together with the manner of taking the said late Earl, Rumbolld the maulster, Ayloff, and others the rebels : as likewise the execution of the said late Earl, and Rumbold.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25491</idno>
+            <idno type="STC">Wing A327</idno>
+            <idno type="STC">ESTC R1569</idno>
+            <idno type="EEBO-CITATION">12955333</idno>
+            <idno type="OCLC">ocm 12955333</idno>
+            <idno type="VID">96036</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25491)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96036)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:64)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the most remarkable fights and skirmishes between His Majesties forces, and the late rebels in the kingdom of Scotland with what other material passages hapned, from the first landing of the late Earl of Argyle, to his utter rout and defeat : together with the manner of taking the said late Earl, Rumbolld the maulster, Ayloff, and others the rebels : as likewise the execution of the said late Earl, and Rumbold.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Argyll, Archibald Campbell, --  Earl of, 1629-1685.</term>
+               <term>Scotland --  History --  1660-1688 --  Sources.</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:96036:1" rendition="simple:additions"/>
+            <head>An Account of the Moſt Remarkable Fights and Skirmiſhes Between His Majeſties Forces, And the Late REBELS In the Kingdom of SCOTLAND.</head>
+            <head type="sub">WITH What other material Paſſages hapned, from the firſt Landing of the late Earl of <hi>ARGYLE,</hi> to his utter Rout and Defeat. Together with the Manner of taking the ſaid Late Earl, <hi>Rumbold</hi> the Maulſter, <hi>Ayloff,</hi> and others the Rebels. As likewiſe the Execution of the ſaid late Earl, and <hi>Rumbold.</hi>
+            </head>
+            <p>
+               <hi>ARchibald Campbell,</hi> the late Earl of <hi>Argyle,</hi> Sir <hi>John Cochrain,</hi> and divers other Rebels, having made Proviſion of Shipping, Arms and Ammunition in <hi>Holland,</hi> Looſed from <hi>Vlye</hi> on the 2d of <hi>May,</hi> 1685. in three ſmall Veſſels; with which, on the 5th of <hi>May,</hi> he
+<pb n="2" facs="tcp:96036:2"/>appeared before <hi>Orkney,</hi> ſending his Secretary and Chyrur<g ref="char:EOLhyphen"/>geon on Shoar, to underſtand how the People ſtood af<g ref="char:EOLhyphen"/>fected; who were preſently ſeized, and carried before His Majeſty's Privy Council: And from thence, ſailing to the Weſt of <hi>Scotland,</hi> he met two other Ships on the Coaſt, and Landed with his Company, in an Hoſtile Manner, on <hi>Ila,</hi> a place in the Weſt of the aforeſaid Kingdom, having with him about 500 Men, publiſhing a Trayterous Decla<g ref="char:EOLhyphen"/>ration in his own Name, and another in the Name of thoſe in Arms with him, to incite the People to Rebellion, re<g ref="char:EOLhyphen"/>quiring the Bayliff of <hi>Ila</hi> to Riſe with him; but he told him, he was ſworn to be true and faithful to His Majeſty, and could not comply with his Deſire, taking his Opportu<g ref="char:EOLhyphen"/>nity ſoon after to withdraw himſelf, as did divers others, who fled by Sea to <hi>Dunluce</hi> in <hi>Ireland,</hi> who there reported that <hi>Argyle</hi> threatned to fire the Bayliff's Houſe, and hang up all thoſe that would not Riſe with him, carrying the Fire acroſs (an uſual Signal in that Country, to incite the People to take up Arms.)</p>
+            <p>The King having notice of theſe Hoſtile Proceedings, briefly communicated them, in the Cloſe of His Moſt Gra<g ref="char:EOLhyphen"/>cious Speech to both Houſes of Parliament, on the 22d of <hi>May;</hi> who addreſſed His Majeſty with their Humble Thanks, and a Reſolution to ſtand by Him with their Lives and Fortunes, againſt <hi>Archibald Campbel,</hi> his Adhe<g ref="char:EOLhyphen"/>rents, and all other Traytors and Rebels. Whereupon, Expreſſes were diſpatched to His Majeſty's Council in the Kingdom of <hi>Scotland,</hi> and all neceſſary Care taken for the Suppreſſion of the Rebels, who uſed their utmoſt diligence to keep themſelves aloof from the Royal Army, by this time drawn up to oppoſe them, under the Command of the Marquis of <hi>Athol,</hi> the Lord <hi>Dumbarton, &amp;c.</hi> The Re<g ref="char:EOLhyphen"/>bels Plundering and Foraging the Country, divers petty Skirmiſhes paſſing between them and the Royal Parties, when, on the <hi>3d</hi> of <hi>June,</hi> the Marquis of <hi>Athol,</hi> having
+<pb n="3" facs="tcp:96036:2" rendition="simple:additions"/>notice that <hi>Charles Campbel,</hi> Son to <hi>Argile,</hi> lay with a Party of 120 Foot and 12 Horſe at <hi>Glendarowel,</hi> he marched thi<g ref="char:EOLhyphen"/>ther to ſeize them; but they having timely notice, fled to their Boats, leaving only two Perſons behind them, one of which was killed in the Purſuit, and the other taken Priſo<g ref="char:EOLhyphen"/>ner, when on the <hi>4th,</hi> the late Earl of <hi>Argyle</hi> ſent Sir <hi>John Cochrain</hi> and one <hi>Polwart</hi> with a Detachment of 100 Men and 2 Ships to <hi>Greenock,</hi> where the Militia-Troops, under the Command of the Lord <hi>Cochrain,</hi> oppoſed their Land<g ref="char:EOLhyphen"/>ing; but the Cannon playing from the Ships, gave them Opportunity, although nothing was wanting in the Royal Party that might contribute to a hindrance. The Rebels being on Shoar, entred the Town, and ſeized on ſuch Proviſions as they found there: but finding their Number not to in<g ref="char:EOLhyphen"/>creaſe, they returned to their Ships, which conveyed them to <hi>Boot.</hi>
+            </p>
+            <p>
+               <hi>Argyle</hi> not finding the People ſo prone to Rebellion as he imagined, although he uſed both Threats and Intreats, find<g ref="char:EOLhyphen"/>ing by this time that Captain <hi>Hamilton</hi> was arrived with 3 or 4 of His Majeſty's Men of War, deſigning to ſeize or fire his Veſſels, he cauſed them to be brought under the Caſtle of <hi>Elangreg,</hi> and on the <hi>8th</hi> of <hi>June</hi> drew up his Company, making ſhew as if he intended to engage the Marqueſs of <hi>Athole;</hi> but finding himſelf too weak, and knowing what danger his Ships were in, upon which he moſtly relied, he altered his Reſolution, and cauſed his Ships and Boats to be manned, in order to their ſailing for <hi>Loch<g ref="char:EOLhyphen"/>fin;</hi> but were detained by contrary Winds, till ſuch time as His Majeſties Ships, the <hi>King-Fiſher,</hi> and <hi>Falcon,</hi> came up to the entrance of <hi>Lochrowan:</hi> which ſo diſcouraged the Rebels, that altogether abandoning their purpoſe of ſailing into <hi>Lochfin,</hi> they, on the <hi>10th</hi> of <hi>June,</hi> began to fortifie the Caſtle of <hi>Ellengreg,</hi> as alſo a Rock in a little Iſle adjacent, for the more ſecurity of their Ships. After which, the late Earl of <hi>Argile</hi> marched away towards the Head of <hi>Lochfin,</hi>
+               <pb n="4" facs="tcp:96036:3"/>leaving only 150 men for the Guard of his Ships, as like<g ref="char:EOLhyphen"/>wiſe his Cannon, Arms and Ammunition in the Caſtle.</p>
+            <p>Upon the <hi>11th</hi> of <hi>June,</hi> a Party of His Majeſties For<g ref="char:EOLhyphen"/>ces, under the Command of the Marqueſs of <hi>Athol,</hi> conſiſting of 300 Foot, encounter'd a Party of 400 of the Rebels Foot, and 80 Horſe, intirely defeating them, killing divers upon the place, wounding others, and taking many Priſoners, Horſe and Arms; which brought ſuch a terror upon their main ſtrength which was advancing, that <hi>Argyle</hi> thought fit to march back to <hi>Ellengreg,</hi> where he continued till the <hi>15th</hi> of <hi>June.</hi>
+            </p>
+            <p>Marching from <hi>Ellengreg,</hi> the Rebels paſſed <hi>Lochlong,</hi> and continued their march towards <hi>Lenox,</hi> in the Shire of <hi>Dumbarton:</hi> Upon which, the King's Ships came up to the Caſtle to batter it, but, upon the firſt Firing, two Men came off with a White Flag, and being brought on Board one of His Majeſties Ships, they informed the Captain, That the Rebels were fled, whom the late Earl of <hi>Argyle</hi> had left behind, and that the Caſtle was at their Service: Whereupon divers Boats being manned, and ſent on ſhore, found the Report to be true, when as they took poſſeſſion of the Caſtle, and thoſe Ships they found there without the leaſt oppoſition; as likewiſe of a conſiderable quantity of Arms and Ammunition, with divers pieces of Cannon and Culverin, the Arms there found, not being leſs than 5000 together, with 500 Barrels of Powder, with Bullet and other materials proportionable. The Cannon being partly mounted, and partly ſunk; the Rebels, as it was afterward diſcovered, Deſigning to blow up the Powder, but by the ſuddain approach of the Men of War, were prevented.</p>
+            <p>On the <hi>16th</hi> of <hi>June,</hi> the Rebels Marched by the Head of <hi>Gariloch,</hi> towards the Foards of <hi>Levin,</hi> between <hi>Lech<g ref="char:EOLhyphen"/>lemon</hi> and the Town of <hi>Dumbarton:</hi> When to oppoſe them, the Earl of <hi>Dumbarton</hi> ſent a Detachment of 3 Troops of
+<pb n="5" facs="tcp:96036:3" rendition="simple:additions"/>Horſe and Dragoons, Commanded by the Lord <hi>Charles Murray</hi> his Lieutenant Colonel, whilſt the Earl himſelf with the groſs of the Royal Army marched from <hi>Glaſgow,</hi> to give them Battel, if they could be drawn to it; and ſo ſpeedy was his march, that he came within 12 miles of them, before they had notice of his ſetting forward: ſo that they were in a manner blocked up, having the River <hi>Clyde</hi> on the right hand, guarded by the aforementioned Dragoons, and the Troops of that Countrey, the Duke of <hi>Gourdon</hi> on their left, and the Marqueſs of <hi>Athole</hi> in their Rear; which diſtreſs cauſed divers to deſert, not only through fear, but extremely of hunger, their chiefeſt ſtores being ſpent, and the Countrey ſecured againſt them, divers Noblemen and Gentlemen daily reſorting to the Royal Ar<g ref="char:EOLhyphen"/>my, inſomuch that divers were ſent back their attendance being judged unneceſſary, which made them repine to be deprived of the Honour to ſerve His Majeſty on this occa<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>The Rebels having paſſed the River <hi>Levin,</hi> taking their way to <hi>Sterling,</hi> the Earl of <hi>Dumbarton</hi> overtook them in the Pariſh of <hi>Killern,</hi> where the Horſe and Dragoons oppo<g ref="char:EOLhyphen"/>ſed their paſſage, till the Foot arrived; which they percei<g ref="char:EOLhyphen"/>ving, poſted themſelves in a ſtrong Ground, and endea<g ref="char:EOLhyphen"/>voured to fortifie themſelves, at what time it being late in the Evening, the Earl thought not fit to attack them, but commanded the Army to ſtand in Battalia all night, with Orders to fall upon them as ſoon as day appeared: But, un<g ref="char:EOLhyphen"/>der the ſhelter of the darkneſs, the Rebels marched away with great ſilence to the River <hi>Clyd,</hi> which they ſwam with their Horſes, carrying over their Foot in Boats, taking the River near a Village called <hi>Kilpatrick,</hi> and, without much reſiſtance, entered <hi>Renfrew.</hi>
+            </p>
+            <p>The Kings Army in the Morning, perceiving the Rebels had quitted their Station marched with all Diligence to
+<pb n="6" facs="tcp:96036:4"/>
+               <hi>Glaſcow,</hi> but had ſcarcely reſted two Hours, before the Earl of <hi>Dumbarton,</hi> with the Horſe and Dragoons, marched after the Rebels, the Foot following with all convenient Speed.</p>
+            <p>The Rebels, on the <hi>17th</hi> of <hi>June,</hi> having paſſed the <hi>Clyde,</hi> their Number was much leſſen'd by thoſe that deſerted; which put the reſt into ſuch a Conſternation, that their greateſt Care was, how they might eſcape. Whereupon Sir <hi>John Cochrain</hi> undertook to provide Guides to carry them ſafe into <hi>Galloway;</hi> but they miſtaking the Way, carried them into a Miry Bogg, where the Horſe and Baggage were ſo far loſt, that they could not get them off, which cauſed their Foot to diſperſe into ſmall Parties; upon notice of which, the Earl of <hi>Dumbarton</hi> divided his Forces to pur<g ref="char:EOLhyphen"/>ſue them, which cauſed <hi>Argyle</hi> to return towards <hi>Clyde,</hi> on Horſeback, without any Retinue; but being met by two of <hi>Greinock</hi>'s Servants, they called to him to ſurrender him<g ref="char:EOLhyphen"/>ſelf, which he refuſing, and firing at them, they charged upon him with great fury, giving him a Wound in the Head, which ſo dozed him, that he was obliged to quit his Horſe, and betake himſelf to a Neighbouring Pond, when, upon the noiſe of the Action, a Country-man came out, and ran into the Water after him, bidding him Yield; but inſtead of Yielding, he preſented his Piſtol, which miſ-ſerved; upon which, the Country-man gave him a Wound on the Head which ſtun'd him, when in his Fall, he cryed out, <hi>Oh <g ref="char:V">Ʋ</g>nfortunate</hi> Argyle! And thereupon, being taken, he was carried to the Commander.</p>
+            <p>The late Earl of <hi>Argyle</hi> thus taken, a Party of 40 Horſe, commanded by the Lord <hi>Roſs,</hi> with the like number of Dragoons, commanded by Captain <hi>Cleland,</hi> fell upon a Par<g ref="char:EOLhyphen"/>ty of the moſt reſolute Rebels, commanded by Sir <hi>John Co<g ref="char:EOLhyphen"/>chrain,</hi> who had taken the way to the Sea; but before the Attacked had time to Poſt themſelves within a ſmall Inclo<g ref="char:EOLhyphen"/>ſure,
+<pb n="7" facs="tcp:96036:4"/>within a Coverture, or Breaſt-work, notwithſtand<g ref="char:EOLhyphen"/>ing the Lord <hi>Roſs,</hi> with much Reſolution and Bravery, charged them; but the Ground being too ſtrong for the Horſe, the Capt. of the Dragoons was killed, the Lord <hi>Roſs</hi> ſlightly wounded, Sir <hi>Adam Blare</hi> ſhot through the Neck, and Sir <hi>William Wallack</hi> in the Side. Before the Dragoons had time to come up on foot, the Rebels, leaving their Poſt, got into a Wood behind them, where moſt of them were afterwards taken, when <hi>Rumbold</hi> the Malſter, flying, was taken together with his Man, by five of the Earl of <hi>Arran</hi>'s Militia of <hi>Cledſdale,</hi> though not without Reſiſtance, killing one Militia-man upon the place, <hi>Rumbold</hi> being much wounded.</p>
+            <p>Soon after this Defeat, Colonel <hi>Ayloff</hi> and about 200 more were taken and brought Priſoners to <hi>Glaſgow,</hi> where <hi>Ayloff,</hi> in a deſperate Mood, rip'd up his Belly with a Pen-knife, but it proved not mortal.</p>
+            <p>The late Earl of <hi>Argyle</hi> taken as aforeſaid, being a while detained a Priſoner at <hi>Glaſgow,</hi> was conveyed to <hi>Edenburg</hi> by the Water-gate, paſſing through a Guard of His Majeſty's Soldiers, bare-headed, his Hands tied behind him, and the Hang-man going before him to the Caſtle; and ſoon after, News came that Sir <hi>John Cochrain</hi> and his ſecond Son were taken.</p>
+            <p>His Majeſty, upon notice that <hi>Rumbold</hi> was taken, was graciouſly pleaſed to order the Reward promiſed in His Late Majeſty's Proclamation, to be diſtributed amongſt the Sol<g ref="char:EOLhyphen"/>diers of the Earl of <hi>Arran</hi>'s Militia, who took him; and that if any of the ſaid Soldiers were killed, or ſince dead of their Wounds, their Share to be given to their Wives and Children; or in caſe of Defect, to their neareſt Rela<g ref="char:EOLhyphen"/>tion.</p>
+            <pb n="8" facs="tcp:96036:5"/>
+            <p>On the <hi>26th</hi> of <hi>June, Rumbold</hi> being brought to his Tryal at <hi>Edenburg,</hi> for coming over with the late Earl of <hi>Argyle,</hi> and making a Rebellion in the Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> and found Guilty thereof, Sentence paſſed upon him as in caſe of High Treaſon; and accordingly, on the ſame Day, he was drawn on a Hurdle to the Croſs, and there Hang'd and Quarter'd.</p>
+            <p>On the <hi>30th</hi> of <hi>June,</hi> the late Earl of <hi>Argyle</hi> was carried to the Croſs, near to which he was Beheaded, upon a Scaf<g ref="char:EOLhyphen"/>fold for that purpoſe erected, his Head affixed on the <hi>Tol<g ref="char:EOLhyphen"/>booth,</hi> and his Body buried in St. <hi>Magdalens</hi> Chappel, in the <hi>Cow-Gate,</hi> his Execution being in purſuance of his former Conviction. A Paper he left with the Dean of <hi>Edenburg,</hi> who, together with Mr. <hi>Charteres,</hi> deliver'd it to the Lord Chancellor, the late Earl declaring he had delivered no other Paper to any Perſon whatſoever. And ſince his Execution, the Rebels have been taken, kill'd and diſpers'd to that degree, that that Kingdom is entirely in Peace and Tran<g ref="char:EOLhyphen"/>quility.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>This may be printed,</hi>
+            </p>
+            <closer>
+               <signed> R. L S.</signed>
+               <dateline>
+                  <date>July 23. 1685.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W.C.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
